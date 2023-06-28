@@ -1,3 +1,3 @@
 # Gastos
 
-#Pojetinho Simples da Faculdade
+#Projetinho Simples da Faculdade
